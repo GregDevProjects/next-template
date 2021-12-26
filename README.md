@@ -1,12 +1,12 @@
 # Next Template
 
-This is a starter template for Next.js projects.
+A starter template for Next.js projects.
 
-Ingredients:
+**Ingredients:**
 
 1. Typescript
    - https://nextjs.org/docs/basic-features/typescript
-2. Eslint
+2. Eslint with react-hooks 
    - https://www.npmjs.com/package/eslint-plugin-react-hooks
 3. Sass
    - https://nextjs.org/docs/basic-features/built-in-css-support#scss-support
